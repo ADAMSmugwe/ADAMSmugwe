@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=600&lines=Full-stack+Developer+from+Kenya;ALX+Africa+Student;Web+Security+Enthusiast;Building+Impactful+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=600&lines=Full-stack+Developer+from+Kenya;Moringa+School+Student;Machine+Learning+Enthusiast;Building+Impactful+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
@@ -46,9 +46,9 @@
 </p>
 
 - 🌍 Full-stack Developer from Kenya  
-- 🎓 Student at **ALX Africa** (Software Engineering track)  
-- 💡 Passionate about **Web Security, Full-Stack Development & AI for Learning**  
-- 🎯 Current Focus: Building impactful tech solutions in **education, agriculture, and finance**  
+- 🎓 Student at **Moringa School** (Software Engineering track)  
+- 💡 Passionate about **Machine Learning, Full-Stack Development & AI for Learning**  
+- 🎯 Current Focus: Building impactful tech solutions in **Machine Learning, agriculture, and finance**  
 - 📬 Reach me: **mugweadams439@gmail.com**
 
 <p align="center">
