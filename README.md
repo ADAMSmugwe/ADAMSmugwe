@@ -62,10 +62,17 @@
 
 ---
 
-<!-- LANGUAGES USED -->
-<h2 align="center" style="color:#00ffff;">🗣️ Languages Used</h2>
+<!-- LANGUAGES & METRICS -->
+<h2 align="center" style="color:#00ffff;">🗣️ Languages & Metrics</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADAMSmugwe&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://metrics.lecoq.io/ADAMSmugwe?template=classic&languages=1&base=header,activity,community,repositories&config.timezone=Africa/Nairobi" width="90%" />
+</p>
+
+<!-- WAKATIME CARD -->
+<h2 align="center" style="color:#00ffff;">⏱️ Coding Activity (WakaTime)</h2>
+<p align="center">
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </p>
 
 ---
