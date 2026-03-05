@@ -71,20 +71,43 @@
 <!-- LANGUAGE USAGE PROGRESS BARS -->
 <h2 align="center" style="color:#00ffff;">📈 Language Usage</h2>
 <p align="center" style="font-family:monospace;">
+  <!-- Animated SVG bars: GitHub supports basic SVG animations -->
+  <svg width="400" height="120" xmlns="http://www.w3.org/2000/svg">
+    <!-- background bars -->
+    <rect x="0" y="0" width="400" height="20" fill="#444" />
+    <rect x="0" y="30" width="400" height="20" fill="#444" />
+    <rect x="0" y="60" width="400" height="20" fill="#444" />
+    <rect x="0" y="90" width="400" height="20" fill="#444" />
+
+    <!-- animated filled bars -->
+    <rect x="0" y="0" width="0" height="20" fill="#3572A5">
+      <animate attributeName="width" to="160" dur="1.5s" fill="freeze" /> <!-- 40% of 400 -->
+    </rect>
+    <text x="410" y="14" fill="#00ffff" font-size="12">Python 40%</text>
+
+    <rect x="0" y="30" width="0" height="20" fill="#F1E05A">
+      <animate attributeName="width" to="100" dur="1.5s" fill="freeze" /> <!-- 25% -->
+    </rect>
+    <text x="410" y="44" fill="#00ffff" font-size="12">JavaScript 25%</text>
+
+    <rect x="0" y="60" width="0" height="20" fill="#2b7489">
+      <animate attributeName="width" to="60" dur="1.5s" fill="freeze" /> <!-- 15% -->
+    </rect>
+    <text x="410" y="74" fill="#00ffff" font-size="12">TypeScript 15%</text>
+
+    <rect x="0" y="90" width="0" height="20" fill="#b07219">
+      <animate attributeName="width" to="40" dur="1.5s" fill="freeze" /> <!-- 10% -->
+    </rect>
+    <text x="410" y="104" fill="#00ffff" font-size="12">Java 10%</text>
+  </svg>
+  <br />
+  <!-- fallback emojis in case SVG doesn’t animate -->
   Python:      40%  ▓▓▓▓▓▓▓▓░░░░░░░░░░░░  
   JavaScript:  25%  ▓▓▓▓▓░░░░░░░░░░░░░░░░  
   TypeScript:  15%  ▓▓▓░░░░░░░░░░░░░░░░░░  
   Java:        10%  ▓▓░░░░░░░░░░░░░░░░░░░░  
   C++:          5%  ▓░░░░░░░░░░░░░░░░░░░░░  
   Other:        5%  ▓░░░░░░░░░░░░░░░░░░░░░  
-</p>
-<p align="center">
-  <img src="https://progress-bar.dev/40/?title=Python&width=300&color=blue" />
-  <img src="https://progress-bar.dev/25/?title=JavaScript&width=300&color=yellow" />
-  <img src="https://progress-bar.dev/15/?title=TypeScript&width=300&color=cyan" />
-  <img src="https://progress-bar.dev/10/?title=Java&width=300&color=red" />
-  <img src="https://progress-bar.dev/5/?title=C++&width=300&color=purple" />
-  <img src="https://progress-bar.dev/5/?title=Other&width=300&color=grey" />
 </p>
 
 ---
