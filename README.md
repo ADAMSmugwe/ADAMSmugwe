@@ -59,6 +59,14 @@
 
 ---
 
+<!-- STREAK SECTION -->
+<h2 align="center" style="color:#00ffff;">🔥 GitHub Streak</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADAMSmugwe&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 <!-- SNAKE CONTRIBUTION GRAPH -->
 <p align="center">
   <img src="https://github.com/ADAMSmugwe/ADAMSmugwe/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
