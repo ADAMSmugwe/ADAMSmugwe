@@ -71,43 +71,20 @@
 <!-- LANGUAGE USAGE PROGRESS BARS -->
 <h2 align="center" style="color:#00ffff;">📈 Language Usage</h2>
 <p align="center">
-  <table>
-    <tr>
-      <th align="left">Language</th>
-      <th align="center">Percentage</th>
-      <th align="left">Progress</th>
-    </tr>
-    <tr>
-      <td>Python</td>
-      <td align="center">40%</td>
-      <td> <img src="https://progress-bar.dev/40/?title=Python&width=200&color=blue" /> </td>
-    </tr>
-    <tr>
-      <td>JavaScript</td>
-      <td align="center">25%</td>
-      <td> <img src="https://progress-bar.dev/25/?title=JavaScript&width=200&color=yellow" /> </td>
-    </tr>
-    <tr>
-      <td>TypeScript</td>
-      <td align="center">15%</td>
-      <td> <img src="https://progress-bar.dev/15/?title=TypeScript&width=200&color=cyan" /> </td>
-    </tr>
-    <tr>
-      <td>Java</td>
-      <td align="center">10%</td>
-      <td> <img src="https://progress-bar.dev/10/?title=Java&width=200&color=red" /> </td>
-    </tr>
-    <tr>
-      <td>C++</td>
-      <td align="center">5%</td>
-      <td> <img src="https://progress-bar.dev/5/?title=C++&width=200&color=purple" /> </td>
-    </tr>
-    <tr>
-      <td>Other</td>
-      <td align="center">5%</td>
-      <td> <img src="https://progress-bar.dev/5/?title=Other&width=200&color=grey" /> </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/Python-40%25-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-25%25-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-15%25-cyan?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-10%25-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C++-5%25-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Other-5%25-grey?style=for-the-badge" />
+</p>
+<p align="center">
+  <img src="https://progress-bar.dev/40/?title=Python&width=300&color=blue" />
+  <img src="https://progress-bar.dev/25/?title=JavaScript&width=300&color=yellow" />
+  <img src="https://progress-bar.dev/15/?title=TypeScript&width=300&color=cyan" />
+  <img src="https://progress-bar.dev/10/?title=Java&width=300&color=red" />
+  <img src="https://progress-bar.dev/5/?title=C++&width=300&color=purple" />
+  <img src="https://progress-bar.dev/5/?title=Other&width=300&color=grey" />
 </p>
 
 ---
