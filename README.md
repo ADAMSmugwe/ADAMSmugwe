@@ -5,24 +5,76 @@
 
 <h1 align="center">Hi there, I'm Adams Mugwe 👋</h1>
 
-<!-- Spotify Now Playing -->
-<h3 align="center">🎧 What I'm listening to</h3>
+<!-- HERO SECTION -->
 <p align="center">
-  <a href="https://open.spotify.com/user/31e44p2uuszcwiqk37eprh5uy3va">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31e44p2uuszcwiqk37eprh5uy3va&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Engineer+(GDG+Lead);UI%2FUX+Designer" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Stats Cards -->
+<!-- ABOUT ME -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://img.shields.io/badge/-Adams%20Mugwe-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+<p align="center" style="font-size:1.2em;color:#00ffff;">
+  Passionate GDG Lead, building scalable solutions in AI, web, and design.<br>
+  I create impactful products as a Full Stack Developer, AI/ML Engineer, and UI/UX Designer.<br>
+  Currently working on Adakev (ISP billing), SureOdds (sports betting), and a poultry farm management system.
 </p>
 
-<!-- Top Languages & Activity Graph -->
+---
+
+<!-- SKILLS SECTION -->
+<h2 align="center" style="color:#00ffff;">⚡ Skills</h2>
+<table width="100%">
+  <tr>
+    <td align="center" valign="top"><b>Frontend</b><br>
+      <img src="https://skillicons.dev/icons?i=react,js,html,css,figma,nextjs&theme=dark" />
+    </td>
+    <td align="center" valign="top"><b>Backend</b><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,python,c,postgres,express&theme=dark" />
+    </td>
+    <td align="center" valign="top"><b>AI/ML</b><br>
+      <img src="https://skillicons.dev/icons?i=python,opencv&theme=dark" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- DYNAMIC STATS -->
+<h2 align="center" style="color:#00ffff;">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="40%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&theme=react-dark&hide_border=true" alt="Contribution Graph" width="57%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ADAMSmugwe&show_icons=true&theme=transparent&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADAMSmugwe&layout=compact&theme=transparent&hide_border=true" width="48%" />
+</p>
+
+---
+
+<!-- SNAKE CONTRIBUTION GRAPH -->
+<p align="center">
+  <img src="https://github.com/ADAMSmugwe/ADAMSmugwe/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+<!-- SOCIALS -->
+<h2 align="center" style="color:#00ffff;">🌐 Connect with Me</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/adamsmugwe" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/adamsmugwe" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.fiverr.com/adamsmugwe" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-00FFB0?style=for-the-badge&logo=fiverr&logoColor=white" />
+  </a>
+</p>
+
+<!-- FOOTER -->
+<p align="center" style="color:#00ffff;">
+  <b>Let's build something amazing together!</b>
 </p>
 
 <!-- FOOTER with random Unsplash image -->
