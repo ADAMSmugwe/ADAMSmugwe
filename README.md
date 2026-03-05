@@ -74,6 +74,12 @@
   <a href="https://github.com/ADAMSmugwe/poultry-farm-management">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADAMSmugwe&repo=poultry-farm-management&theme=dark" />
   </a>
+  <a href="https://github.com/ADAMSmugwe/Face-recognition-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADAMSmugwe&repo=Face-recognition-&theme=dark" />
+  </a>
+  <a href="https://github.com/ADAMSmugwe/mpesa-API-wrapper-for-node.js">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADAMSmugwe&repo=mpesa-API-wrapper-for-node.js&theme=dark" />
+  </a>
 </p>
 
 ---
