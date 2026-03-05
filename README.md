@@ -1,6 +1,6 @@
 <!-- PROFILE AVATAR -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/ADAMSmugwe" alt="Adams Mugwe Avatar" width="150" style="border-radius:50%; border: 3px solid #00ffff;" />
+  <img src="https://plus.unsplash.com/premium_photo-1664299631876-f143dc691c4d?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Z29yaWxsYXxlbnwwfHwwfHx8MA%3D%3D" alt="Adams Mugwe Avatar" width="150" style="border-radius:50%; border: 3px solid #00ffff; object-fit:cover;" />
 </p>
 
 <h1 align="center">Hi there, I'm Adams Mugwe 👋</h1>
