@@ -67,13 +67,6 @@
 
 ---
 
-<!-- SNAKE CONTRIBUTION GRAPH -->
-<p align="center">
-  <img src="https://github.com/ADAMSmugwe/ADAMSmugwe/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
 <!-- SOCIALS -->
 <h2 align="center" style="color:#00ffff;">🌐 Connect with Me</h2>
 <p align="center">
