@@ -3,7 +3,7 @@
   <img src="https://source.unsplash.com/random/1000x200?coding,developer" alt="banner" />
 </p>
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Adams Mugwe 👋</h1>
 
 <!-- Spotify Now Playing -->
 <h3 align="center">🎧 What I'm listening to</h3>
