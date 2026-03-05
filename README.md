@@ -70,13 +70,13 @@
 
 <!-- LANGUAGE USAGE PROGRESS BARS -->
 <h2 align="center" style="color:#00ffff;">📈 Language Usage</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-40%25-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-25%25-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript-15%25-cyan?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-10%25-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C++-5%25-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Other-5%25-grey?style=for-the-badge" />
+<p align="center" style="font-family:monospace;">
+  Python:      40%  ▓▓▓▓▓▓▓▓░░░░░░░░░░░░  
+  JavaScript:  25%  ▓▓▓▓▓░░░░░░░░░░░░░░░░  
+  TypeScript:  15%  ▓▓▓░░░░░░░░░░░░░░░░░░  
+  Java:        10%  ▓▓░░░░░░░░░░░░░░░░░░░░  
+  C++:          5%  ▓░░░░░░░░░░░░░░░░░░░░░  
+  Other:        5%  ▓░░░░░░░░░░░░░░░░░░░░░  
 </p>
 <p align="center">
   <img src="https://progress-bar.dev/40/?title=Python&width=300&color=blue" />
