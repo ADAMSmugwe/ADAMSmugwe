@@ -19,7 +19,7 @@
 <p align="center" style="font-size:1.2em;color:#00ffff;">
   Passionate GDG Lead, building scalable solutions in AI, web, and design.<br>
   I create impactful products as a Full Stack Developer, AI/ML Engineer, and UI/UX Designer.<br>
-  Currently working on Adakev (ISP billing), SureOdds (sports betting), and a poultry farm management system.
+  Currently working on a neural network, Mpesa Integration , and a poultry farm management system.
 </p>
 
 ---
