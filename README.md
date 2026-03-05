@@ -1,11 +1,6 @@
-<!-- BANNER SECTION -->
+<!-- PROFILE AVATAR -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1678483790053-71367bc7a02c?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGdvb2dsZXxlbnwwfHwwfHx8MA%3D%3D" alt="Adams Mugwe Banner" width="100%" />
-</p>
-
-<!-- HEADER with random Unsplash image -->
-<p align="center">
-  <img src="https://source.unsplash.com/random/1000x200?coding,developer" alt="banner" />
+  <img src="https://avatars.githubusercontent.com/ADAMSmugwe" alt="Adams Mugwe Avatar" width="150" style="border-radius:50%; border: 3px solid #00ffff;" />
 </p>
 
 <h1 align="center">Hi there, I'm Adams Mugwe 👋</h1>
@@ -67,6 +62,22 @@
 
 ---
 
+<!-- PINNED PROJECTS -->
+<h2 align="center" style="color:#00ffff;">🚀 Pinned Projects</h2>
+<p align="center">
+  <a href="https://github.com/ADAMSmugwe/adakev">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADAMSmugwe&repo=adakev&theme=dark" />
+  </a>
+  <a href="https://github.com/ADAMSmugwe/sureodds">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADAMSmugwe&repo=sureodds&theme=dark" />
+  </a>
+  <a href="https://github.com/ADAMSmugwe/poultry-farm-management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADAMSmugwe&repo=poultry-farm-management&theme=dark" />
+  </a>
+</p>
+
+---
+
 <!-- SOCIALS -->
 <h2 align="center" style="color:#00ffff;">🌐 Connect with Me</h2>
 <p align="center">
@@ -84,9 +95,4 @@
 <!-- FOOTER -->
 <p align="center" style="color:#00ffff;">
   <b>Let's build something amazing together!</b>
-</p>
-
-<!-- FOOTER with random Unsplash image -->
-<p align="center">
-  <img src="https://source.unsplash.com/random/1000x150?technology,workspace" alt="footer" />
 </p>
