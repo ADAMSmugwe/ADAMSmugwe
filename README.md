@@ -62,24 +62,10 @@
 
 ---
 
-<!-- PINNED PROJECTS -->
-<h2 align="center" style="color:#00ffff;">🚀 Pinned Projects</h2>
+<!-- LANGUAGES USED -->
+<h2 align="center" style="color:#00ffff;">🗣️ Languages Used</h2>
 <p align="center">
-  <a href="https://github.com/ADAMSmugwe/adakev">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADAMSmugwe&repo=adakev&theme=dark" />
-  </a>
-  <a href="https://github.com/ADAMSmugwe/sureodds">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADAMSmugwe&repo=sureodds&theme=dark" />
-  </a>
-  <a href="https://github.com/ADAMSmugwe/poultry-farm-management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADAMSmugwe&repo=poultry-farm-management&theme=dark" />
-  </a>
-  <a href="https://github.com/ADAMSmugwe/Face-recognition-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADAMSmugwe&repo=Face-recognition-&theme=dark" />
-  </a>
-  <a href="https://github.com/ADAMSmugwe/mpesa-API-wrapper-for-node.js">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADAMSmugwe&repo=mpesa-API-wrapper-for-node.js&theme=dark" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADAMSmugwe&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="60%" />
 </p>
 
 ---
