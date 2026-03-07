@@ -56,12 +56,12 @@
 
 <!-- STREAK SECTION -->
 <h2 align="center" style="color:#00ffff;">🔥 GitHub Streak</h2>
-<p align="center">
-  <!-- streak stats service appears to be down; showing placeholder text -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADAMSmugwe&theme=dark&hide_border=true" alt="GitHub Streak (temporarily unavailable)" />
-  <br/>
-  <em>Streak stats currently unavailable due to external service downtime.</em>
-</p>
+<div align="center">
+  <h2 style="font-size: 24px; color: #696969;">My GitHub Streak</h2>
+  <p align="center">
+    <img src="https://streak-stats.demolab.com/?user=ADAMSmugwe&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </p>
+</div>
 
 ---
 
