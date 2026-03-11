@@ -48,9 +48,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ADAMSmugwe&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADAMSmugwe&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" width="48%" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADAMSmugwe&theme=react-dark&bg_color=0d1117&color=00ffff&line=ff00ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
-</p>
+
+<div align="center">
+  <h2 style="font-size: 24px; color: #696969;">GitHub Metrics</h2>
+  <img src="https://metrics.lecoq.io/ADAMSmugwe?template=classic&isocalendar=1&languages=1&followup=1&activity=1&base=header,activity,community,repositories,metadata" alt="GitHub Metrics" />
+</div>
+
+<div align="center">
+  <h2 style="font-size: 24px; color: #696969;">GitHub Activity Graph</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADAMSmugwe&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
+</div>
 
 ---
 
