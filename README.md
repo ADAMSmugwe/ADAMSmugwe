@@ -1,6 +1,9 @@
-<!-- BANNER IMAGE -->
+<!-- EMBEDDED DEMO VIDEO -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1653564142048-d5af2cf9b50f?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZGVlcCUyMGxlYXJuaW5nfGVufDB8fDB8fHww" alt="Deep Learning Banner" width="100%" />
+  <video width="100%" controls poster="assets/Screen Recording 2026-03-11 at 17.00.05.mp4">
+    <source src="assets/Screen Recording 2026-03-11 at 17.00.05.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </p>
 
 <h1 align="center">Hi there, I'm Adams Mugwe 👋</h1>
@@ -157,17 +160,6 @@ print(f"Commits in 2026: {count_2026}")
 <!-- FOOTER -->
 <p align="center" style="color:#00ffff;">
   <b>Let's build something amazing together!</b>
-</p>
-
----
-
-## Demo Video
-
-<p align="center">
-  <video width="500" controls>
-    <source src="assets/Screen Recording 2026-03-11 at 17.00.05.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
 </p>
 
 ---
