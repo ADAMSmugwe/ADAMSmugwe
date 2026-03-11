@@ -110,6 +110,34 @@
   </a>
 </p>
 
+---
+
+## Fetch Commit Counts with Python
+
+You can use this script to fetch your commit counts for 2025 and 2026:
+
+```python
+import requests
+
+USERNAME = "ADAMSmugwe"
+TOKEN = "YOUR_PERSONAL_ACCESS_TOKEN"  # Replace with your GitHub token
+headers = {"Authorization": f"token {TOKEN}", "Accept": "application/vnd.github.cloak-preview"}
+
+def get_commit_count(start, end):
+    url = f"https://api.github.com/search/commits?q=author:{USERNAME}+committer-date:{start}..{end}"
+    response = requests.get(url, headers=headers)
+    data = response.json()
+    return data.get("total_count", 0)
+
+# 2025
+count_2025 = get_commit_count("2025-01-01T00:00:00Z", "2025-12-31T23:59:59Z")
+print(f"Commits in 2025: {count_2025}")
+
+# 2026
+count_2026 = get_commit_count("2026-01-01T00:00:00Z", "2026-12-31T23:59:59Z")
+print(f"Commits in 2026: {count_2026}")
+```
+
 <!-- FOOTER -->
 <p align="center" style="color:#00ffff;">
   <b>Let's build something amazing together!</b>
