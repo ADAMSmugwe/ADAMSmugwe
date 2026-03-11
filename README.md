@@ -1,9 +1,10 @@
 <!-- EMBEDDED DEMO VIDEO -->
 <p align="center">
-  <video width="100%" controls poster="assets/Screen Recording 2026-03-11 at 17.00.05.mp4">
-    <source src="assets/Screen Recording 2026-03-11 at 17.00.05.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <a href="https://vimeo.com/1172560444?fl=pl&fe=sh" target="_blank">
+    <img src="https://i.vimeocdn.com/video/default.jpg" alt="Demo Video" width="100%" />
+    <br />
+    <b>Watch Demo Video</b>
+  </a>
 </p>
 
 <h1 align="center">Hi there, I'm Adams Mugwe 👋</h1>
