@@ -3,7 +3,7 @@
   <a href="https://vimeo.com/1172560444?fl=pl&fe=sh" target="_blank">
     <img src="https://e7.pngegg.com/pngimages/104/194/png-clipart-google-developers-google-developer-groups-software-development-google-text-logo.png" alt="Demo Video" width="100%" />
     <br />
-    <b>Watch Demo Video</b>
+    <b>GOOGLE DEVELOPER LEAD LEAD FOR MACHINE LEARNING AND ARTIFICIAL INTELLIGENCE</b>
   </a>
 </p>
 
