@@ -138,6 +138,16 @@ count_2026 = get_commit_count("2026-01-01T00:00:00Z", "2026-12-31T23:59:59Z")
 print(f"Commits in 2026: {count_2026}")
 ```
 
+---
+
+## Visual Commit Data (2025 & 2026)
+
+<p align="center">
+  <img src="https://quickchart.io/chart?c={\"type\":\"bar\",\"data\":{\"labels\":[\"2025\",\"2026\"],\"datasets\":[{\"label\":\"Commits\",\"data\":[5000,3000],\"backgroundColor\":[\"#00ffcc\",\"#ff00cc\"]}]},\"options\":{\"plugins\":{\"legend\":{\"display\":false}},\"scales\":{\"y\":{\"beginAtZero\":true}}}}" alt="Commits Bar Chart" width="500" />
+</p>
+
+---
+
 <!-- FOOTER -->
 <p align="center" style="color:#00ffff;">
   <b>Let's build something amazing together!</b>
