@@ -1,7 +1,7 @@
 <!-- EMBEDDED DEMO VIDEO -->
 <p align="center">
   <a href="https://vimeo.com/1172560444?fl=pl&fe=sh" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTohfnxV_YyKXO3tICo-f43J0Z9ATrFevwDS3UTw_Zd4A&s" alt="Demo Video" width="100%" />
+    <img src="https://e7.pngegg.com/pngimages/104/194/png-clipart-google-developers-google-developer-groups-software-development-google-text-logo.png" alt="Demo Video" width="100%" />
     <br />
     <b>Watch Demo Video</b>
   </a>
