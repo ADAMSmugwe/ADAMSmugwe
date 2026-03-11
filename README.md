@@ -148,6 +148,12 @@ print(f"Commits in 2026: {count_2026}")
 
 ---
 
+## Kenya Committers Badge
+
+[![committers.top badge](https://user-badge.committers.top/kenya/ADAMSmugwe.svg)](https://user-badge.committers.top/kenya/ADAMSmugwe)
+
+---
+
 <!-- FOOTER -->
 <p align="center" style="color:#00ffff;">
   <b>Let's build something amazing together!</b>
