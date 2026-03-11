@@ -158,3 +158,16 @@ print(f"Commits in 2026: {count_2026}")
 <p align="center" style="color:#00ffff;">
   <b>Let's build something amazing together!</b>
 </p>
+
+---
+
+## Demo Video
+
+<p align="center">
+  <video width="500" controls>
+    <source src="assets/Screen Recording 2026-03-11 at 17.00.05.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+---
