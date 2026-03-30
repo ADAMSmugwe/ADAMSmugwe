@@ -158,6 +158,34 @@ print(f"Commits in 2026: {count_2026}")
 
 ---
 
+## ☕ Support Me (Buy Me a Coffee)
+
+If you'd like to support my work, here are a few easy ways:
+
+- **Buy Me a Coffee** – [https://www.buymeacoffee.com/ADAMSmugwe](https://www.buymeacoffee.com/ADAMSmugwe)
+  - ![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)
+
+- **PayPal** (for global payments, multiple currencies supported):
+  - https://www.paypal.me/ADAMSmugwe
+
+- **M-Pesa STK Push** (Kenya focused, multi-currency via your STK service):
+  - If you use my repository for STK push, create a friendly form that accepts country and currency and routes to M-Pesa / VISA / Mastercard payment conversions.
+  - Repo: https://github.com/ADAMSmugwe/mpesa-API-wrapper-for-node.js
+
+### Multi-currency approach
+
+1. Accept contributions in the contributor's preferred currency.
+2. Convert to KES (or your accepted currency) using a live Forex API (e.g., exchangerate.host or fixer.io).
+3. Use M-Pesa STK push or a payment gateway (Stripe/PayPal) to complete the charge.
+
+Example flow using your STK wrapper:
+- Visitor enters amount in `USD/EUR/GBP`.
+- Backend converts using exchange rate API to KES.
+- Sends STK push request to mobile number.
+- On approval, store the transaction record and show a thank-you message.
+
+---
+
 <!-- FOOTER -->
 <p align="center" style="color:#00ffff;">
   <b>Let's build something amazing together!</b>
