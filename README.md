@@ -55,4 +55,4 @@ Python · JavaScript · TypeScript · PyTorch · TensorFlow · CLIP · NumPy · 
 
 If my work helped you or you'd like to support what I'm building — a coffee goes a long way.
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/mugweadams439)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?business=mugweadams439@gmail.com)
