@@ -48,3 +48,11 @@ Python · JavaScript · TypeScript · PyTorch · TensorFlow · CLIP · NumPy · 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adams-mugwe-251547342)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mugwe_A)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@mugweadams439)
+
+---
+
+## Support
+
+If my work helped you or you'd like to support what I'm building — a coffee goes a long way.
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/mugweadams439)
