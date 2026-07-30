@@ -1,7 +1,6 @@
 <div align="center">
 
 # **DHANO OTAMO WANG' NYASAYE**
-#  IN GREAT HONOR OF MUSA JUMA
 
 <p align="center">
   
