@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  <b>Data Engineer at Safaricom PLC</b> &nbsp;|&nbsp; <b>GDG Lead at Mount Kenya University</b>
+  <b>Data Analyst at Safaricom PLC</b> &nbsp;|&nbsp; <b>GDG Lead at Mount Kenya University</b>
 </p>
 
 </div>
