@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  <b>Data Analyst at Safaricom PLC</b> &nbsp;|&nbsp; <b>Google Developer Lead</b>
+  <b>  Engineering at Safaricom PLC</b> &nbsp;|&nbsp; <b>Google Developer Lead</b>
 </p>
 
 </div>
